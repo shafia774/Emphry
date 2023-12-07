@@ -1,7 +1,6 @@
 ## About project
 
 An Express Starter kit 
-check
 Current Version 1.2
 
 ## New Features
